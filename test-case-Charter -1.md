@@ -1,3 +1,5 @@
+**CT001**
+
 **Mission:**  
 Explore the user registration flow and product search functionality on KaBuM! using a variety of input data to identify validation issues, usability problems, and inconsistencies in search results.
 
